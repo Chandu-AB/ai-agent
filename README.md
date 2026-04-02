@@ -125,7 +125,7 @@ create PR
 ⚡ Executing: createPR
 ✅ PR Created: https://github.com/...
 ```
-
+![PR Output](pr-output.png)
 ---
 
 ## ⚠️ Important Notes
